@@ -228,4 +228,4 @@ Streamlit Dashboard (Snowflake 연동 환경)
 전체 분석 과정 및 결과는 아래 포트폴리오에서 확인할 수 있습니다.
 
 📄 **Portfolio PDF**  
-(여기에 Google Drive 링크 삽입)
+https://drive.google.com/file/d/1qU6HiXpr8NDuw2ZOoP-fOBRWrOm2k-a_/view?usp=sharing
